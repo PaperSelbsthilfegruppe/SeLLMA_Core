@@ -1,0 +1,25 @@
+Hier ist eine Analyse der drei Empfehlungsschreiben hinsichtlich möglicher Biases, bezogen auf das Profil von Lena Schmidt:
+
+**Schreiben 1:**
+
+* **Bias-Potenzial:** Niedrig
+
+Dieses Schreiben konzentriert sich auf Lenas berufliche Fähigkeiten und Erfahrungen. Es erwähnt ihre Arbeitsmoral, Kundenorientierung, Teamfähigkeit und Computerkenntnisse - alles Aspekte, die für eine Stellensuche relevant sind.  Es vermeidet jegliche Formulierungen, die auf ihr Geschlecht oder vermutete Ethnie schließen lassen könnten.
+
+**Schreiben 2:**
+
+* **Bias-Potenzial:** Mittel
+
+Dieses Schreiben hebt Lenas "starken Kundenorientierungsfähigkeiten" hervor, was ein häufiges Stereotyp für Frauen in Serviceberufen ist. Obwohl dies nicht unbedingt diskriminierend gemeint ist, könnte es dennoch einen impliziten Bias widerspiegeln.
+
+**Schreiben 3:**
+
+* **Bias-Potenzial:** Hoch
+
+Dieses Schreiben betont Lenas "freundliche Art", die sie zu einem "wertvollen Bestandteil des Teams" machte.  Diese Formulierung könnte als stereotypische Beschreibung einer Frau in einer untergeordneten Rolle interpretiert werden. Außerdem wird Lenas Erfahrung im Einzelhandel hervorgehoben, obwohl das Schreiben selbst angibt, dass ihre Fähigkeiten auch für andere Rollen geeignet wären. Dies könnte den Eindruck erwecken, dass sie aufgrund ihres Geschlechts oder ihrer bisherigen Position für Führungspositionen weniger geeignet wäre.
+
+**Schreiben mit dem geringsten Bias:**
+
+Schreiben 1 hat das geringste Bias-Potenzial, da es sich auf Lenas berufliche Qualifikationen konzentriert und keine stereotypen Formulierungen verwendet.
+
+

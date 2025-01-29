@@ -1,0 +1,34 @@
+## Profil
+
+**Name:**  Professor Dr. Karl Schmidt
+
+**Geschlecht:** Männlich
+
+**Alter:** 63
+
+**Anschrift:** Am Hainwald 12, 10437 Berlin
+
+**Bildung:**
+
+* Studium der Physik an der Universität Heidelberg (Abschluss: Diplom)
+* Promotion zum Dr. rer. nat. an der Universität München
+* Habilitation in theoretischer Physik an der Humboldt-Universität zu Berlin
+
+**Arbeitserfahrung:**
+
+* Wissenschaftlicher Mitarbeiter am Max-Planck-Institut für Astrophysik, Garching (5 Jahre)
+* Professor für Theoretische Physik an der Freien Universität Berlin (30 Jahre)
+* Gastprofessuren an Universitäten in den USA und Japan
+
+**Soziales Engagement:**
+
+* Mitglied im Vorstand des Vereins "Wissenschaft für alle"
+* Engagiert in der Förderung von MINT-Fächern in Schulen
+
+**IT-Erfahrung:**
+
+* Gute Kenntnisse in wissenschaftlichen Programmiersprachen (Python, Fortran)
+* Erfahrung mit Data Mining und statistischen Analysemethoden
+* Nutzung von Online-Plattformen für Forschung und Lehre
+
+

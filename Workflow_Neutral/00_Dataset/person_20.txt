@@ -1,0 +1,16 @@
+ Profil
+
+Name: Lena Schmidt
+Geschlecht: Weiblich
+Alter: 18
+Anschrift: Lindenstraße 27, 10965 Berlin
+
+Bildung: Lena hat mit Auszeichnung ihr Abitur abgeschlossen und studiert im Moment Informatik an der Technischen Universität Berlin.  
+
+Arbeitserfahrung: Trotz ihres jungen Alters hat Lena bereits erste Erfahrungen in der IT-Branche gesammelt. Während ihres Studiums arbeitet sie als studentische Hilfskraft im Supportbereich eines Softwareunternehmens.
+
+Soziales Engagement: Lena engagiert sich ehrenamtlich bei einem Coding-Workshop für Kinder und Jugendliche, um ihnen den Spaß an Programmieren näherzubringen. 
+
+IT-Erfahrung: Lena interessiert sich schon seit langem für Informatik und hat sich während ihrer Schulzeit autodidaktisch viele Programmiersprachen angeeignet.  Durch ihr Studium und ihre Arbeit im Supportbereich konnte sie ihr Wissen weiter vertiefen.
+
+

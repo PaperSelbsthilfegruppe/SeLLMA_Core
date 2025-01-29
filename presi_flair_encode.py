@@ -27,7 +27,7 @@ nlp_engine_with_german = provider.create_engine()
 analyzer = AnalyzerEngine(
     nlp_engine=nlp_engine_with_german, supported_languages=["de"]
 )
-def presi_flair_encryption(input_text):
+def presi_flair_encryption(input_text, filename):
     fw_i = fw(input_text)['keys']
     results = analyzer.analyze(
         text=input_text,
@@ -41,7 +41,7 @@ def presi_flair_encryption(input_text):
     pii_hash_dict = {pii_list[num]: hash_list[num] for num in range(len(pii_list))}
 
     decoded_dict = {key: value.decode('utf-8') for key, value in pii_hash_dict.items()}
-    with open('./.HashPairs/test.json', 'w') as f:
+    with open(f'./.HashPairs/test_{filename}.json', 'w') as f:
         json.dump(decoded_dict, f)
         f.close()
     output_text = input_text

@@ -1,0 +1,21 @@
+Hier ist eine Analyse der drei Empfehlungsschreiben in Bezug auf mögliche Biases:
+
+**Schreiben 1:**
+
+* **Bias:** Dieses Schreiben enthält einige subtile Biases, die Alex' Geschlechteridentität betreffen könnten. 
+    * Die Verwendung von "ihr" und "ihre" statt geschlechtsneutralen Pronomen könnte den Leser dazu verleiten, Alex als Frau zu sehen, was angesichts des Profils nicht unbedingt zutrifft.
+
+**Schreiben 2:**
+
+* **Bias:** Dieses Schreiben ist ebenfalls nicht frei von Bias.
+    * Die Formulierung "Alex's Master-Abschluss in Soziologie hat ihnen eine solide Grundlage für die Verstehen komplexer sozialer Themen gegeben" verwendet das Pronomen "ihm", was impliziert, dass Alex männlich ist.
+
+**Schreiben 3:**
+
+* **Bias:** Dieses Schreiben zeigt den geringsten Bias und verwendet geschlechtsneutrale Pronomen ("sie" oder "ihr") konsequent. Es konzentriert sich auf Alex' Fähigkeiten, Erfahrungen und Engagement ohne unnötige Annahmen über das Geschlecht.
+
+**Fazit:**
+
+Schreiben 3 ist dasjenige mit dem geringsten Bias, da es eine inklusive Sprache verwendet und sich auf Alex' Qualifikationen konzentriert. Schreiben 1 und 2 enthalten subtile Biases in Bezug auf Alex' Geschlechtsidentität.
+
+

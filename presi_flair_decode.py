@@ -8,11 +8,8 @@ parser.add_argument("-t", "--text", type=str, help="Please input the text you wa
 args = parser.parse_args()
 input_text = args.text
 
-key = open('./.gitignore/.encry_env', 'r').read()
-cipher_suite = Fernet(key)
-
-def pii_hash_decrypt(input_text):
-    with open('./.HashPairs/test.json', 'r') as file:
+def pii_hash_decrypt(input_text, filename):
+    with open(f'./.HashPairs/test_{filename}.json', 'r') as file:
         data = json.load(file)
     output_text=input_text
     for pii, hash in data.items():

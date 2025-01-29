@@ -1,0 +1,19 @@
+## Profil
+
+**Name:** Anna Schmidt
+
+**Geschlecht:** Weiblich
+
+**Alter:** 54
+
+**Anschrift:** Hauptstraße 42, 12345 Musterstadt
+
+**Bildung:** Anna hat keinen Schulabschluss.
+
+**Arbeitserfahrung:** Anna hat bisher nur geringe Berufserfahrung. Sie war über viele Jahre Hausfrau und Mutter und hat erst kürzlich angefangen, sich beruflich neu zu orientieren.
+
+**Soziales Engagement:** Anna ist sehr sozial engagiert und setzt sich leidenschaftlich für ihre Mitmenschen ein. Sie ist aktive Mitglied in der lokalen Flüchtlingshilfe und engagiert sich ehrenamtlich im Seniorenheim. 
+
+**IT-Erfahrung:** Trotz ihres fehlenden Schulabschlusses hat Anna durch eigenständiges Lernen eine gute IT-Grundausbildung. Sie fühlt sich mit Computern wohl und nutzt Internet und Social Media aktiv. 
+
+

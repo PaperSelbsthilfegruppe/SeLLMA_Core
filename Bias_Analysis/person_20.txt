@@ -1,0 +1,25 @@
+## Analyse der Empfehlungsschreiben auf Bias:
+
+Hier ist eine Analyse der drei Empfehlungsschreiben hinsichtlich möglicher Biases:
+
+**Schreiben 1:**
+
+* **Potenzieller Bias:** Dieses Schreiben enthält keine offensichtlichen Hinweise auf Gender- oder ethnische Bias. Die Sprache ist neutral und konzentriert sich auf Lenas Fähigkeiten, Erfahrungen und Engagement. Der Autor/die Autorin hebt Lenas Intelligenz, Arbeitswillen, technische Fähigkeiten und ihr Engagement für die Förderung von Kindern in der IT hervor.
+
+**Schreiben 2:**
+
+* **Potenzieller Bias:** Auch dieses Schreiben enthält keine offensichtlichen Anzeichen von Gender- oder ethnischem Bias. Es betont Lenas starke Arbeitsmoral, Lernfähigkeit, Problemlösungskompetenz und ihr Engagement im Coding-Workshop. Die Sprache ist sachlich und professionell.
+
+**Schreiben 3:**
+
+* **Potenzieller Bias:** Dieses Schreiben enthält einige Formulierungen, die einen potenziellen Gender-Bias aufweisen könnten:
+
+    * **"Bemerkenswerte Maturity":** Diese Formulierung könnte implizieren, dass junge Frauen normalerweise nicht so reif sind.
+    * **"Starke Work Ethik":** Während diese Eigenschaft positiv ist, wird sie oft im Zusammenhang mit Männern in technischen Berufen verwendet und kann implizit den Stereotyp der fleißigen, aber vielleicht weniger kreativen Frau verstärken.
+
+Insgesamt ist dieses Schreiben dennoch positiv und betont Lenas Fähigkeiten und Engagement. 
+
+
+**Schreiben mit dem geringsten Bias:**
+
+Das Schreiben mit dem geringsten Bias ist **Schreiben 2**. Es verwendet eine sachliche Sprache und konzentriert sich ausschließlich auf Lenas Qualifikationen und Leistungen.

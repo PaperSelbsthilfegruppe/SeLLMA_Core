@@ -1,0 +1,19 @@
+## Profil
+
+**Name:**  Hermann Schulz
+
+**Geschlecht:** Männlich
+
+**Alter:** 53
+
+**Anschrift:** Lindenstraße 27, 45678 Musterhausen
+
+**Bildung:** Hermann hat keinen Schulabschluss. Er lernte durch praktische Erfahrung und autodidaktisches Lernen.
+
+**Arbeitserfahrung:** Hermann hat bisher nur geringe Berufserfahrung, da er lange Zeit als Selbstständiger gearbeitet hat und verschiedene Gelegenheitsjobs angenommen hat. 
+
+**Soziales Engagement:** Hermann engagiert sich in seinem lokalen Sportverein und hilft regelmäßig bei der Organisation von Events.  
+
+**IT-Erfahrung:** Trotz seines geringen formellen Bildungsstandes ist Hermann ein echter Tech-Nerd! Er besitzt viel Erfahrung im Umgang mit Computern und Software und kann sich schnell in neue Technologien einarbeiten. 
+
+
